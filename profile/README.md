@@ -1,5 +1,3 @@
-我很乐意帮你将这个ShareNest介绍文档翻译成中文。以下是完整的中文翻译：
-
 # ShareNest
 ## 🌍 多语言文档
 - [🇬🇧 English](https://github.com/share-nest/.github/edit/main/profile/README-EN.md)
